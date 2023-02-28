@@ -1,3 +1,4 @@
+![logo](https://github.com/Ogabek-Mustafoev/Ogabek-Mustafoev/blob/main/banner-main.jpg)
 <h1 align="center">Hi 👋, I'm Ogabek Mustafoev</h1>
 <h3 align="center">A humble developer from Uzbekistan</h3>
 

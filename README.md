@@ -22,8 +22,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/https://www.facebook.com/ogabek.mustafoyev.5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/ogabek.mustafoyev.5/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/mustafoev__ogabek/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/mustafoev__ogabek/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/ogabek.mustafoyev.5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/ogabek.mustafoyev.5/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/mustafoev__ogabek/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/mustafoev__ogabek/" height="30" width="40" /></a>
 <a href="https://t.me/Ogabek_Mustafoyev" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" alt="https://t.me/Ogabek_Mustafoyev" height="30" width="40" /></a>
 </p>
 

@@ -8,15 +8,15 @@
 
 - 🌱 I’m currently learning **TypeScript and Node JS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Ogabek-Mustafoev](https://github.com/Ogabek-Mustafoev)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/Ogabek-Mustafoev)
 
-- 📝 I regularly write articles on [https://it-blogger.netlify.app/](https://it-blogger.netlify.app/)
+- 📝 I regularly write articles on [My Blog](https://full-stack-next-js-blog.vercel.app/)
 
 - 💬 Ask me about **JavaScript, React, Redux, Next**
 
-- 📫 How to reach me **mustafoev0806@gmail.com**
+- 📫 How to reach me? Let's talk 👉 **mustafoev0806@gmail.com**
 
-- 📄 Know about my experiences [https://bek-folio.netlify.app/](https://bek-folio.netlify.app/)
+- 📄 Know about my experiences on [My Portfolio](https://mustafoev-ogabek.vercel.app/)
 
 - ⚡ Fun fact **I'm responsible,**
 
